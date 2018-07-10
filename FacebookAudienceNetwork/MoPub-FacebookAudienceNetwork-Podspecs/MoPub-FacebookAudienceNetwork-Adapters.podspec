@@ -13,7 +13,6 @@ To download and integrate the Facebook SDK, please check https://developers.face
 For inquiries and support, please visit https://developers.facebook.com/products/audience-network/faq/. \n
 DESC
 s.homepage         = 'https://github.com/mopub/mopub-ios-mediation'
-s.license          = { :type => 'New BSD', :file => 'LICENSE' }
 s.author           = { 'MoPub' => 'support@mopub.com' }
 s.source           = { :git => 'https://github.com/mopub/mopub-ios-mediation.git', :commit => 'master' }
 s.ios.deployment_target = '8.0'
